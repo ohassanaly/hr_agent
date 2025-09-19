@@ -1,0 +1,29 @@
+# VCS
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual envs and uv artifacts
+.venv/
+.uv/
+
+# Logs, env
+*.log
+.env
+.env.*
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Large docs/assets not needed for runtime
+about/*.pdf
+*.pdf
