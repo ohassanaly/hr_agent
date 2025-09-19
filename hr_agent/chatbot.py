@@ -31,6 +31,7 @@ def stream_graph_updates(user_input: str):
             if ai_msgs:
                 print("Olivier:", ai_msgs[-1].content)
 
+
 def stream_graph_updates_ui(user_input: str):
     config = {"configurable": {"thread_id": "1"}}  # any thread id value works here
     for event in graph.stream(
@@ -47,8 +48,7 @@ def stream_graph_updates_ui(user_input: str):
             # Only pick AI messages (the model's replies)
             ai_msgs = [m for m in msgs if is_final_ai(m)]
             if ai_msgs:
-                yield(ai_msgs[-1].content)
-
+                yield (ai_msgs[-1].content)
 
 
 if __name__ == "__main__":

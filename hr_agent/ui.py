@@ -1,7 +1,9 @@
 from chatbot import *
 import streamlit as st
 
-st.set_page_config(page_title="AI enginner interview", page_icon="💬", layout="centered")
+st.set_page_config(
+    page_title="AI enginner interview", page_icon="💬", layout="centered"
+)
 
 # with st.chat_message("Olivier"):
 #     st.write("Hello, I can answer any question for that AI engineer interview")
