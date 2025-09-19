@@ -1,3 +1,4 @@
+import os
 from typing import Annotated
 
 from langchain.chat_models import init_chat_model
@@ -13,9 +14,16 @@ from langgraph.prebuilt import ToolNode, tools_condition
 # from langgraph.types import Command
 from langsmith import traceable
 
+#this manages secrets locally
 from dotenv import load_dotenv
-
 load_dotenv()
+
+#secrets management for deployment
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+LANGSMITH_TRACING = os.getenv("LANGSMITH_TRACING", "false").lower() == "true"
+LANGSMITH_API_KEY = os.getenv("LANGSMITH_API_KEY")
+LANGSMITH_PROJECT = os.getenv("LANGSMITH_PROJECT", "hr-agent")
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 
 llm = init_chat_model(
     "openai:gpt-4.1",
