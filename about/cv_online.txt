@@ -1,0 +1,43 @@
+OLIVIER HASSANALY in/olivier-hassanaly +33 6 86 50 67 26
+olivierhass@gmail.com 27 Rue Vaugelas 75015 Paris Driving License
+SUMMARY
+Data Scientist graduated from Télécom Paris. : For the past 3 years, I have been interfacing between data and
+various players in the energy sector and medical field. At Enedis, I had the opportunity to advise a major
+company on strategic decisions based on big data. At the Commission de Régulation de l'Energie, I
+developed an operational profile capable of rapidly producing insights and synthesizing them for political
+decision-makers. At AP-HP, I interact daily with clinical experts to understand their needs and propose
+optimal use of data, and AI-based products. I want to be part of the current technological transformation
+working with State of the Art GenAI applications. I have in-depth knowledge of AI, strong data processing
+skills, proficiency in Python, and the ability to interact with both technical and non-technical audiences.
+WORK EXPERIENCE
+Data Scientist - Assistance Publique des Hôpitaux de Paris (AP-HP) - Since October 2023
+Unité de recherche clinique, AP-HP, Hôpital Saint Louis
+Lead research projects on healthcare data from AP-HP's 11 million patients Clinical Data Warehouse
+end-to-end development and deployment of a RAG webapp for clinical trials protocols
+Support and training for doctors in the use of the AP-HP health data warehouse for research purposes
+Data Analyst - Commission de Régulation de l'Energie - between October 2022 & September 2023
+Market Development and Energy Transition Division
+Provide technical expertise to a team of 7 people (integration and exploitation of department data)
+Quantitative analysis to monitor retail markets
+Data Scientist Internship - Enedis - Direction Stratégique - between February & August 2022
+Forecasting of renewable energy production using machine learning
+Modeling the evolution of the housing stock to forecast changes in French residential electricity consumption
+EDUCATION
+General Digital Engineering - Télécom Paris (Institut Polytechnique Paris) - Saclay - From 2019 to 2022
+Artificial Intelligence, Data Science, Applied Mathematics
+Royal Institue of Technology - Stockholm - 6 months Academic Exchange between 2021 & 2022
+Applied mathematics (advanced statistics, mathematical modeling of biological systems)
+Classe préparatoire aux Grandes Ecoles - Lycée Chaptal - Paris - From 2017 to 2019
+MPSI/PSI* - Intensive preparatory courses in Mathematics, Physics and Engineering Sciences
+TECHNICAL SKILLS
+Coding skills : Python, Spark, SQL, R , SAS, C & Java basics
+Framework and Libraries : Pandas, Sklearn, Pytorch, BS4, SLURM, Transformers, Docker, OpenAI, Polars, chromadb
+ML skills : Un/-Supervised ML (regression, classification, clustering), Deep Learning (CNN, RNN, LLMs), NLP, RAG
+Applied Mathematics : Statistics, Biostatistics, Biology (cell modeling, genomics), Optimization, Signal processing, Digital
+Communications, Opitcal Fiber, Network Protocols
+HOBBIES
+Languages : French native, English C1-C2 Linguaskill, Spanish C1, Russian A2-B1, Portuguese A2-B1, Swedish A1, Latin
+Chess game : FIDE elo ranking : 1987 - Fr high school champion in 2017 - 6th place 2017 Fr Championship (Open B, 131 players)
+Arts : Music : Piano, Guitar - Dance : Cuban Salsa - Literature : Zola, Dostoïevski - Acting
+Sports : Traling, Swimming, Football, Tennis, Badminton, Catamaran, Skiing (Etoile d'or ESF)
+Travels : South India, Mexico, South Africa, Egypt, Lapland, ...

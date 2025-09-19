@@ -1,0 +1,69 @@
+Contact Olivier Hassanaly
+www.linkedin.com/in/olivier- Data Science & AI ; Feel free to reach out
+hassanaly (LinkedIn) Paris, Île-de-France, France
+Top Skills Summary
+Intelligence artificielle (IA)
+In the course of my career, I've had the opportunity to act as an
+Science des données
+interface between data&AI and various players in energy supply,
+Analyse de données
+distribution, and medical research.
+Experience
+AP-HP, Assistance Publique - Hôpitaux de Paris
+Data Scientist
+December 2023 - Present (1 year 10 months)
+Ville de Paris, Île-de-France, France
+Research work with doctors from Saint Louis and Lariboisière hospitals.
+Exploitation and analysis of data from the Greater Paris University Hospitals
+health data warehouse (11 million patients).
+Technical lead of a dozen research projects
+Publications :
+Combotherapies in immune-mediated inflammatory diseases https://
+pubmed.ncbi.nlm.nih.gov/39978288/
+Automated assessment of stroke management in hospitals http://
+sciencedirect.com/science/article/pii/S2950433325000503
+More papers to come...
+Commission de régulation de l'énergie
+Data Analyst
+October 2022 - September 2023 (1 year)
+Ville de Paris, Île-de-France, France
+Market Development and Energy Transition Division - Retail Market
+Department
+Provide technical expertise to a team of 7 people through quantitative analysis
+for retail market monitoring :
+-Ensure that the 4 billion euros paid by ARENH+ to alternative suppliers are
+passed on to consumers.
+https://www.cre.fr/documents/Deliberations/Communication/bilan-de-la-
+repercussion-des-volumes-additionnels-d-arenh-dans-les-offres-de-fourniture-
+d-electricite
+Page 1 of 2-Contribution to monitoring the ARENH mechanism and the retail electricity
+market.
+https://www.cre.fr/documents/Publications/Rapports-thematiques/rapport-sur-
+le-fonctionnement-des-marches-de-detail-francais-de-l-electricite-et-du-gaz-
+naturel-entre-2020-et-2022
+-Draw up a guide to good contractual practice for energy purchases by
+professionals.
+https://www.cre.fr/documents/Publications/Rapports-thematiques/guide-de-
+bonnes-pratiques-a-l-intention-des-consommateurs-professionnels-pour-leurs-
+achats-d-electricite-et-de-gaz
+Enedis
+Data Scientist
+February 2022 - August 2022 (7 months)
+Courbevoie, Île-de-France, France
+Strategic Management Department
+Develop forecasting tools to anticipate distribution network development
+needs :
+- Prospective modeling of renewable energy production using statistical tools
+and machine learning models.
+-Development of a predictive model of demographic and housing trends to
+forecast changes in French residential electricity consumption.
+- Strategy support for CAPEX sizing in the photovoltaic sector.
+Education
+Télécom Paris
+Engineering degree, Generalist Digital Engineer · (2019 - 2022)
+Kungliga Tekniska högskolan
+Academic Exchange, Applied Mathematics · (September 2021 - January 2022)
+Lycée Chaptal
+Classes préparatoires aux grandes écoles (CPGE) MPSI-PSI*, Mathematics
+Physics Engineering Sciences · (2017 - 2019)
+Page 2 of 2
