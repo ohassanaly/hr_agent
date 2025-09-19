@@ -17,4 +17,4 @@ COPY about/ ./about/
 COPY hr_agent/ ./hr_agent/
 
 # Default command: run Streamlit app. Honors $PORT if set, else 8080
-CMD ["bash", "-lc", "streamlit run hr_agent/ui.py --server.port=${PORT:-8080} --server.address=0.0.0.0 --server.headless=true"]
+CMD ["uv", "run", "streamlit", "run", "hr_agent/ui.py", "--server.port=${PORT:-8080}", "--server.address=0.0.0.0", "--server.headless=true"]
