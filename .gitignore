@@ -11,3 +11,6 @@ wheels/
 
 #secrets
 .env
+
+#Ruff
+.ruff_cache
